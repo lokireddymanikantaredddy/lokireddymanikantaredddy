@@ -513,7 +513,7 @@ console.log("Let's build the future of web technology together!");
 ---
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f024db5897" width="300" alt="Thank You Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRlYnR5NHFrN2R2YXRjMWxhdXNnenBzM3lsOWxrcG1qYjN0Y3dlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F0J0uiNS8n0BHSQmDt/giphy.gif" width="300" alt="Thank You Animation"/>
   
 ### 🙏 Thanks for Visiting My Digital Universe!
   
