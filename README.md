@@ -482,14 +482,17 @@ console.log("Let's build the future of web technology together!");
 ### 🎯 Skills & Expertise Visualization
 
 <div align="center">
-  
-**Primary Expertise Areas:**
-- 🎨 **Frontend Development:** 95% - React, Next.js, TypeScript, Tailwind
-- ⚙️ **Backend Development:** 90% - Node.js, Express, MongoDB, Redis
-- 🌐 **Web3 & Blockchain:** 85% - Oracle development, DeFi integration
-- 🤖 **AI Integration:** 80% - ChatGPT, Gemini, Claude API implementations
-- 🔧 **Chrome Extensions:** 88% - Manifest v3, JavaScript, User Experience
-- 🎙️ **Voice Interfaces:** 90% - Speech recognition, synthesis, UX design
+
+## 🛠️ Technical Expertise
+
+| Category               | Proficiency | Key Technologies                                                                 | Specializations                          |
+|------------------------|-------------|----------------------------------------------------------------------------------|------------------------------------------|
+| 🎨 **Frontend**        | 95%         | React, Next.js, TypeScript, Tailwind CSS, Framer Motion                          | Performance Optimization, Microfrontends |
+| ⚙️ **Backend**        | 90%         | Node.js, Express, MongoDB, PostgreSQL, Redis                                     | API Design, Database Optimization        |
+| 🌐 **Web3 & Blockchain** | 85%       | Ethereum, Alchemy SDK, Smart Contracts, DeFi                                    | Oracle Development, Token Systems        |
+| 🤖 **AI Integration**  | 80%         | OpenAI API, Gemini, Claude, LangChain                                           | NLP Applications, AI Agents              |
+| 🔧 **Browser Extensions** | 88%     | Manifest V3, Chrome APIs, Cross-browser Polyfills                               | Enterprise-grade Extensions              |
+| 🎙️ **Voice Interfaces** | 90%      | Web Speech API, Speech Recognition, NLU                                        | Voice UX Design, Accessibility           |
 
 </div>
 
@@ -499,10 +502,10 @@ console.log("Let's build the future of web technology together!");
   
 | Project Category | Technologies Used | Impact Achieved |
 |------------------|-------------------|-----------------|
-| **Voice Interface** | React, Framer Motion, Speech APIs | 300% user engagement increase |
-| **Chrome Extensions** | JavaScript, AI APIs | 1000+ active users, 4.8/5 rating |
+| **Voice Interface** | React, Framer Motion, Speech APIs | user engagement increase |
+| **Chrome Extensions** | JavaScript, AI APIs | active users, 4.8/5 rating |
 | **Web3 Development** | Next.js, Alchemy SDK, Redis | 10M+ data points, 99.9% accuracy |
-| **Full-Stack Apps** | MERN, Cloud Run, APIs | 500+ users, $50K+ revenue |
+| **Full-Stack Apps** | MERN, Cloud Run, APIs | robest applications |
 | **Agricultural Tech** | React, Node.js, Payment APIs | 60% efficiency improvement |
 
 </div>
