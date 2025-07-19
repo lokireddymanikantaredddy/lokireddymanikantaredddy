@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Turning+ideas+into+code+%F0%9F%92%BB;Building+clean+and+powerful+web+apps+%E2%9A%99%EF%B8%8F;React+%7C+Next+%7C+Chrome+Extensions+%7C+Web3" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN0eDJsam85YmtoMXh2NmFteXRmeWxsaGZkZTFncjZ5anF1OW90MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="snake" />
 </p>
 
