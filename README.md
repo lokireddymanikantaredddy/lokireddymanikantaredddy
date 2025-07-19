@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Frontend+Developer+%7C+Web3+%26+AI+Enthusiast;MERN+Stack+Developer+%7C+Chrome+Extensions;Turning+ideas+into+code+%F0%9F%92%BB;Building+clean+and+powerful+web+apps" alt="Animated Typing Header" />
 </div>
 
+
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN0eDJsam85YmtoMXh2NmFteXRmeWxsaGZkZTFncjZ5anF1OW90MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="500" alt="Coding Animation"/>
 </div>
