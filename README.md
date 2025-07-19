@@ -11,10 +11,6 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=100&section=header&text=&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
-</div>
-
 ---
 
 ## 🌟 About Me - The Code Craftsman
