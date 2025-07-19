@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN0eDJsam85YmtoMXh2NmFteXRmeWxsaGZkZTFncjZ5anF1OW90MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="500" alt="Coding Animation"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="500" alt="snake"/>
 </div>
 
 <div align="center">
