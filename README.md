@@ -386,100 +386,70 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ---
 
+
 ## 🎯 Current Focus & Future Vision
 
 <div align="center">
 
 ```typescript
-interface DevelopmentVision {
-  currentFocus: {
-    coreMastery: string[];
-    emergingTech: string[];
-    specialization: string[];
-  };
-  projectsPipeline: {
-    activeDevelopment: string;
-    nextInQueue: string;
-    researchPhase: string;
-  };
-  skillDevelopment: {
-    blockchain: string[];
-    artificialIntelligence: string[];
-    cloudInfra: string[];
-  };
-  careerTrajectory: {
-    Q3Q4_2024: string;
-    2025: string;
-    5YearVision: string;
-    moonshot: string;
-  };
-  devPhilosophy: {
-    engineering: string;
-    innovation: string;
-    impact: string;
-    growth: string;
-  };
-}
-
-const myVision: DevelopmentVision = {
-  currentFocus: {
-    coreMastery: [
-      "Advanced React Concurrent Features",
-      "Web3 Smart Contract Optimization",
-      "AI Agent Development"
-    ],
-    emergingTech: [
-      "Zero-Knowledge Proofs",
-      "Generative AI Pipelines",
-      "Edge Computing"
-    ],
-    specialization: [
-      "Enterprise Chrome Extensions",
-      "Voice-First Interfaces",
-      "Cross-Chain Oracles"
-    ]
-  },
-  projectsPipeline: {
-    activeDevelopment: "AI-enhanced Web3 trading terminal with predictive analytics",
-    nextInQueue: "Multi-chain DeFi aggregator with MEV protection",
-    researchPhase: "Context-aware AI coding assistant extension"
-  },
-  skillDevelopment: {
-    blockchain: [
-      "Solidity 0.9+",
-      "Ethers.js v6",
-      "Layer 2 Solutions"
-    ],
-    artificialIntelligence: [
-      "LLM Fine-tuning",
-      "Vector Databases",
-      "AI Safety"
-    ],
-    cloudInfra: [
-      "AWS Lambda Architecture",
-      "K8s Cluster Management",
-      "Service Mesh"
-    ]
-  },
-  careerTrajectory: {
-    Q3Q4_2024: "Lead Full-Stack Engineer (Web3/AI focus)",
-    2025: "Principal Engineer at Web3 Infrastructure Company",
-    5YearVision: "CTO of AI-powered DevTools Startup",
-    moonshot: "Creating the standard for voice-native web applications"
-  },
-  devPhilosophy: {
-    engineering: "Type-safe, documented, and benchmarked code",
-    innovation: "Bridging cutting-edge research with production systems",
-    impact: "Building tools that 10x developer productivity",
-    growth: "Daily deliberate practice in core competencies"
-  }
+// My 2024 Development Roadmap & Future Goals
+const currentDevelopmentFocus = {
+    primarySkills: {
+        mastering: ["Advanced React Patterns", "Web3 Development", "AI Integration"],
+        exploring: ["Blockchain Architecture", "GenAI Applications", "Advanced DevOps"],
+        specializing: ["Chrome Extension Development", "Voice UI/UX", "Oracle Systems"]
+    },
+    currentProjects: {
+        active: "Advanced Web3 trading platform with AI-powered analytics",
+        upcoming: "Multi-chain DeFi dashboard with real-time oracle integration",
+        experimental: "AI-powered code generation Chrome extension"
+    },
+    learningPath: {
+        blockchain: ["Solidity", "Web3.js", "DeFi Protocols"],
+        ai: ["Machine Learning APIs", "Natural Language Processing", "Computer Vision"],
+        infrastructure: ["Docker", "Kubernetes", "AWS Services", "Microservices"]
+    },
+    careerGoals: {
+        shortTerm: "Senior Full-Stack Developer with Web3 & AI specialization",
+        mediumTerm: "Technical Lead in innovative blockchain startup",
+        longTerm: "Founding Engineer of next-gen AI-powered development tools",
+        dreamProject: "Building the future of voice-controlled web interfaces"
+    },
+    philosophy: {
+        code: "Clean, performant code that scales with business needs",
+        innovation: "Pushing boundaries with emerging technologies",
+        impact: "Creating solutions that genuinely improve user experiences",
+        growth: "Continuous learning in rapidly evolving tech landscape"
+    }
 };
 
-// Let's connect and build the future together! 🚀
-console.log(`${myVision.devPhilosophy.impact} through ${myVision.currentFocus.coreMastery.join(' + ')}`);
+// Excited to collaborate on revolutionary projects! 🚀
+console.log("Let's build the future of web technology together!");
 ```
 
 </div>
+
+<details> <summary>📈 Visual Roadmap</summary> <br> <div align="center">
+
+gantt
+    title 2024-2025 Development Roadmap
+    dateFormat  YYYY-MM-DD
+    section Core Focus
+    Advanced React Patterns       :active, 2024-07-01, 2024-12-31
+    Web3 Development             :active, 2024-07-01, 2025-03-31
+    AI Integration               :active, 2024-09-01, 2025-06-30
+    
+    section Projects
+    Web3 Trading Platform        :done, 2024-07-01, 2024-10-31
+    DeFi Dashboard               :2024-11-01, 2025-02-28
+    AI Code Extension            :2025-03-01, 2025-06-30
+    
+    section Learning
+    Solidity Mastery            :2024-07-01, 2024-09-30
+    LLM Fine-tuning             :2024-10-01, 2025-01-31
+    AWS Certification           :2025-02-01, 2025-04-30
+</div> </details> 
+    
 
 ---
 
