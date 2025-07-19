@@ -16,7 +16,7 @@
 
 ## 🌟 About Me - The Code Craftsman
 
-<img align="right" alt="Coding Animation" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-9aa4-f84a4d7e6be6">
+<img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtsMnE2ZXB3aW0ydGg1ZTl2bTRsMWxuamp2MnZrY2tkM3RjbjF5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <div align="left">
 
