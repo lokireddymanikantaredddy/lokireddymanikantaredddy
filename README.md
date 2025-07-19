@@ -1,101 +1,123 @@
 
-
 <!-- README.md for GitHub Profile -->
 
 <h1 align="center">Hey there! 👋 I'm Lokireddy Manikanta Reddy</h1>
-<h3 align="center">Full-Stack Web Developer | AI & Web3 Enthusiast | Chrome Extension Builder</h3>
+<h3 align="center">Full-Stack Web Developer | Frontend Developer | Web3 & AI Enthusiast | MERN Stack developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Web+Developer;React+%7C+Next+%7C+Node+%7C+MongoDB;Love+Building+Chrome+Extensions+%F0%9F%92%BB;Web3+%7C+AI+%7C+Firebase+%7C+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Turning+ideas+into+code+%F0%9F%92%BB;Building+clean+and+powerful+web+apps+%E2%9A%99%EF%B8%8F;React+%7C+Next+%7C+Chrome+Extensions+%7C+Web3" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-```js
-const manikanta = {
-  code: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
-  tools: ["Firebase", "Redis", "BullMQ", "Zustand", "Framer Motion"],
-  loves: ["Building Chrome Extensions", "Web3 Apps", "Clean UI/UX"],
-  nowLearning: "Blockchain & GenAI Projects",
-  upcoming: "Master’s at University of Southampton, UK 🇬🇧"
+```ts
+const LokireddyManikantaReddy = {
+  role: "Full-Stack Developer",
+  techStack: [
+    "React.js", "Next.js", "Node.js", "TypeScript",
+    "MongoDB", "Firebase", "Tailwind CSS", "Zustand",
+    "BullMQ", "Redis", "Express.js", "Framer Motion"
+  ],
+  learning: ["Blockchain", "GenAI", "Advanced DevOps"],
+  hobbies: ["Building AI tools", "Creating Chrome Extensions", "Exploring Web3"]
 }
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### 🌟 Featured Projects
-
-#### 🔹 **VoicePolio – Voice Controlled Developer Portfolio**
-- 🧠 AI Chatbot + Voice Navigation  
-- 🌗 Dark Mode toggle  
-- 🧑‍💻 3D profile integration  
-👉 [Live Demo](https://voicepolio.vercel.app)
-
-#### 🔹 **YouTube Transcript Summarizer - Chrome Extension**
-- 🎬 Summarizes YouTube videos using ChatGPT, Gemini, or Claude  
-- 🧾 Transcript Sidebar & One-click Summary  
-- ⚙️ Platform Picker & Custom Prompt  
-👉 Coming Soon on GitHub
-
-#### 🔹 **Zeru Finance Token Oracle**
-- 🧪 Historical Token Price Oracle  
-- ⚡ Interpolation Engine + Redis Queue  
-- 🔗 Web3 + Alchemy SDK + MongoDB  
-👉 Task Submission for Internship
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0179?style=for-the-badge&logo=framer)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA580C?style=for-the-badge&logo=nodedotjs)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand)
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Projects & Achievements
+
+### 🔹 [VoicePolio – Voice Controlled Portfolio](https://voicepolio.vercel.app)
+- 🌐 A fully voice-navigable personal portfolio.
+- 🧠 Integrated AI chatbot for smart interactions.
+- 🎨 Smooth theme toggle, 3D profile effects.
+- 🚀 Built using React, Tailwind CSS, Framer Motion.
+
+---
+
+### 🔹 YouTube Transcript Summarizer - Chrome Extension
+- 🧾 Extracts video transcripts directly from YouTube.
+- 🤖 Allows summarization using ChatGPT, Gemini, or Claude.
+- 🛠️ Custom prompt editor + platform selector.
+- ⚡ Clipboard integration & auto-copy for AI input.
+- 🌟 UI built with pure JavaScript, manifest v3.
+
+---
+
+### 🔹 Historical Token Price Oracle – Zeru Finance Internship
+- 🪙 Web3 oracle for token price interpolation.
+- 🧮 Uses Redis + BullMQ for queue-based processing.
+- 🔗 Built with Alchemy SDK, Next.js, Zustand, MongoDB.
+- 📊 Fetches on-chain price data with timestamp control.
+
+---
+
+### 🔹 Creator Dashboard Web App
+- 📢 Aggregates content from Twitter, Reddit, LinkedIn APIs.
+- 🔐 User & admin dashboards with secure login.
+- 💳 Credit point system for content usage.
+- ☁️ Hosted on Google Cloud Run with MongoDB Atlas.
+
+---
+
+### 🔹 Custom Animated 404 Page
+- 🤹‍♂️ Designed with Framer Motion & emoji graphics.
+- 🔄 Looping animations with interactive visuals.
+- 🎯 Perfect for creative web products.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LokireddyManikanta&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=LokireddyManikanta&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokireddyManikanta&layout=compact&theme=highcontrast" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokireddymanikantaredddy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokireddymanikantaredddy&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=lokireddymanikantaredddy&theme=nightowl" />
 </p>
 
 ---
 
-### 💡 Fun Facts
-
-- 🎓 I'm going to the **UK in Sept 2025** for my Master's (University of Southampton)
-- 🧩 I love solving real-world problems with clean code and intuitive design
-- 🎥 Running a **faceless YouTube channel** about animals using AI-generated content
-- 📱 Built my first Chrome extension for summarizing videos — and I'm just getting started!
-
----
-
-### 📫 Let’s Connect!
+## 📬 Let’s Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lokireddy-manikanta-reddy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:manikantareddyloki@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:lokireddy.manikanta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://linkedin.com/in/lokireddy-manikanta-reddy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://voicepolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lokireddymanikantaredddy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=120&section=footer"/>
 </p>
