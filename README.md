@@ -110,7 +110,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lokireddymanikantaredddy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=lokireddymanikantaredddy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=false&border_color=F85D7F" />
 
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokireddymanikantaredddy&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0D1117&title_color=F85D7F&text_color=FFF&border_color=F85D7F"/>
 </div>
