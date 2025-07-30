@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/lokireddymanikantaredddy/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 ---
