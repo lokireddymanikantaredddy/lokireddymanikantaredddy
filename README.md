@@ -336,34 +336,6 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ---
 
-### 🔹 Custom Animated 404 Page
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300" alt="404 Animation"/>
-</div>
-
-<div align="left">
-
-**🎨 Creative Excellence:** Interactive 404 page with advanced animations and user engagement.
-
-**🛠️ Animation Technology:**
-- **Framework:** Framer Motion for complex animation sequences
-- **Design:** Custom emoji graphics with interactive elements
-- **User Experience:** Engaging error page that reduces bounce rates
-- **Performance:** Optimized animations for smooth 60fps performance
-
-**🌟 Creative Features:**
-- **🤹‍♂️ Interactive Animations:** Looping animations with user hover effects
-- **🔄 Dynamic Graphics:** Custom emoji and SVG animations
-- **🎯 User Retention:** Creative design that encourages site exploration
-- **📱 Responsive Design:** Perfect animation scaling across all devices
-
-**🎨 Design Philosophy:**
-- Transform error pages into delightful user experiences
-- Reduce user frustration with engaging visual elements
-- Encourage users to continue exploring the website
-- Perfect integration with overall site design and branding
-
 </div>
 
 ---
